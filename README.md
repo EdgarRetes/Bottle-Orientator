@@ -1,2 +1,2 @@
 # Bottle-Orientator
-Built a bottle orientator used in production lines to have all the bottles facing the same way, made with my teammates for our final project in robotics.
+I collaborated with my teammates on a project in robotics class. We made a bottle orientator designed for production lines. This device ensures the bottles are placed correctly by aligning all bottles in the same direction. We developed the orientator using C++ and Arduino. In the process, we  integrated light sensors and servo motors, crafting a system that efficiently orients bottles. The prototype, was built entirely from scratch, showcasing our skills in robotics and problem-solving.
